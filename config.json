@@ -1,0 +1,21 @@
+{
+    "conf_dev":{
+        "driver":"mysql",
+        "dbhost":"127.0.0.1",
+        "dbname":"AC2",
+        "dbuser":"IVAN_AC2",
+        "dbpass":"linuxlinux",
+        "web":"http://localhost:8000/",
+        "root":"/"
+    },
+    "conf_pro":{
+        "driver":"mysql",
+        "dbhost":"ivan.cesnuria.com",
+        "dbname":"AC2",
+        "dbuser":"IVAN_AC2",
+        "dbpass":"linuxlinux",
+        "web":"/m7/todofw/",
+        "root":"/m7/todofw/"
+
+    }
+}
